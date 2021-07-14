@@ -1,4 +1,4 @@
-# Trans-Iapetus
+# Reconstruction model for the Trans-Iapetus transform fault
 
 GPlates files for replicating our continental reconstruction:
 
